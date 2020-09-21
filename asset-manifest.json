@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/stream-readers/static/css/main.d166a76b.chunk.css",
+    "main.js": "/stream-readers/static/js/main.bc9bbdd2.chunk.js",
+    "main.js.map": "/stream-readers/static/js/main.bc9bbdd2.chunk.js.map",
+    "runtime-main.js": "/stream-readers/static/js/runtime-main.90d3f407.js",
+    "runtime-main.js.map": "/stream-readers/static/js/runtime-main.90d3f407.js.map",
+    "static/js/2.ad14f063.chunk.js": "/stream-readers/static/js/2.ad14f063.chunk.js",
+    "static/js/2.ad14f063.chunk.js.map": "/stream-readers/static/js/2.ad14f063.chunk.js.map",
+    "index.html": "/stream-readers/index.html",
+    "precache-manifest.116d8052416c31e05497bbe6744fa6be.js": "/stream-readers/precache-manifest.116d8052416c31e05497bbe6744fa6be.js",
+    "service-worker.js": "/stream-readers/service-worker.js",
+    "static/css/main.d166a76b.chunk.css.map": "/stream-readers/static/css/main.d166a76b.chunk.css.map",
+    "static/js/2.ad14f063.chunk.js.LICENSE.txt": "/stream-readers/static/js/2.ad14f063.chunk.js.LICENSE.txt",
+    "static/media/formSection.css": "/stream-readers/static/media/Foto pag filtro blanca.501110e6.png",
+    "static/media/hero.css": "/stream-readers/static/media/porque.c07a3618.jpg",
+    "static/media/TAPA PRINCIPITO ALTA-08 (1).jpg": "/stream-readers/static/media/TAPA PRINCIPITO ALTA-08 (1).8b6c811f.jpg",
+    "static/media/autopista_del_sur_nuevo2.jpg": "/stream-readers/static/media/autopista_del_sur_nuevo2.b3c74c98.jpg",
+    "static/media/axolotl_nuevo2.jpg": "/stream-readers/static/media/axolotl_nuevo2.5e6a7b43.jpg",
+    "static/media/el-arte.jpg": "/stream-readers/static/media/el-arte.2796ea92.jpg",
+    "static/media/el-kybalion.jpg": "/stream-readers/static/media/el-kybalion.a560e6a0.jpg",
+    "static/media/el-lobo-tapa.jpg": "/stream-readers/static/media/el-lobo-tapa.22082659.jpg",
+    "static/media/el-lobo.jpg": "/stream-readers/static/media/el-lobo.db28761d.jpg",
+    "static/media/el-principito.jpg": "/stream-readers/static/media/el-principito.2cef87dc.jpg",
+    "static/media/el_anticristo.jpg": "/stream-readers/static/media/el_anticristo.4eec58e5.jpg",
+    "static/media/el_corazon_delator.jpg": "/stream-readers/static/media/el_corazon_delator.e12e6d8f.jpg",
+    "static/media/el_cuervo.jpg": "/stream-readers/static/media/el_cuervo.82167904.jpg",
+    "static/media/gato-negro.jpg": "/stream-readers/static/media/gato-negro.9c188da8.jpg",
+    "static/media/reviewsSection.css": "/stream-readers/static/media/henry-be-228194-unsplash.888295aa.jpg",
+    "static/media/la-caida.jpg": "/stream-readers/static/media/la-caida.3b0f1a14.jpg",
+    "static/media/la-metamorfosis.jpg": "/stream-readers/static/media/la-metamorfosis.3aa1415f.jpg",
+    "static/media/ruinas_circulares_nuevo2.jpg": "/stream-readers/static/media/ruinas_circulares_nuevo2.e3003f26.jpg",
+    "static/media/senorita_cora_nuevo2.jpg": "/stream-readers/static/media/senorita_cora_nuevo2.13b9b24c.jpg",
+    "static/media/siddartha.jpg": "/stream-readers/static/media/siddartha.b5086a7b.jpg",
+    "static/media/tapa-siddartha.jpeg": "/stream-readers/static/media/tapa-siddartha.22bea730.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d3f407.js",
+    "static/js/2.ad14f063.chunk.js",
+    "static/css/main.d166a76b.chunk.css",
+    "static/js/main.bc9bbdd2.chunk.js"
+  ]
+}
