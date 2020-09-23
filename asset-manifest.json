@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/stream-readers/static/css/main.d166a76b.chunk.css",
-    "main.js": "/stream-readers/static/js/main.bc9bbdd2.chunk.js",
-    "main.js.map": "/stream-readers/static/js/main.bc9bbdd2.chunk.js.map",
+    "main.css": "/stream-readers/static/css/main.53bcba47.chunk.css",
+    "main.js": "/stream-readers/static/js/main.83516b4f.chunk.js",
+    "main.js.map": "/stream-readers/static/js/main.83516b4f.chunk.js.map",
     "runtime-main.js": "/stream-readers/static/js/runtime-main.90d3f407.js",
     "runtime-main.js.map": "/stream-readers/static/js/runtime-main.90d3f407.js.map",
-    "static/js/2.ad14f063.chunk.js": "/stream-readers/static/js/2.ad14f063.chunk.js",
-    "static/js/2.ad14f063.chunk.js.map": "/stream-readers/static/js/2.ad14f063.chunk.js.map",
+    "static/js/2.e7b654c1.chunk.js": "/stream-readers/static/js/2.e7b654c1.chunk.js",
+    "static/js/2.e7b654c1.chunk.js.map": "/stream-readers/static/js/2.e7b654c1.chunk.js.map",
     "index.html": "/stream-readers/index.html",
-    "precache-manifest.116d8052416c31e05497bbe6744fa6be.js": "/stream-readers/precache-manifest.116d8052416c31e05497bbe6744fa6be.js",
+    "precache-manifest.3bbd0d53488689acc66909d8599e526e.js": "/stream-readers/precache-manifest.3bbd0d53488689acc66909d8599e526e.js",
     "service-worker.js": "/stream-readers/service-worker.js",
-    "static/css/main.d166a76b.chunk.css.map": "/stream-readers/static/css/main.d166a76b.chunk.css.map",
-    "static/js/2.ad14f063.chunk.js.LICENSE.txt": "/stream-readers/static/js/2.ad14f063.chunk.js.LICENSE.txt",
+    "static/css/main.53bcba47.chunk.css.map": "/stream-readers/static/css/main.53bcba47.chunk.css.map",
+    "static/js/2.e7b654c1.chunk.js.LICENSE.txt": "/stream-readers/static/js/2.e7b654c1.chunk.js.LICENSE.txt",
     "static/media/formSection.css": "/stream-readers/static/media/Foto pag filtro blanca.501110e6.png",
-    "static/media/hero.css": "/stream-readers/static/media/porque.c07a3618.jpg",
+    "static/media/hero.css": "/stream-readers/static/media/reproducir.3a85d47d.jpg",
     "static/media/TAPA PRINCIPITO ALTA-08 (1).jpg": "/stream-readers/static/media/TAPA PRINCIPITO ALTA-08 (1).8b6c811f.jpg",
     "static/media/autopista_del_sur_nuevo2.jpg": "/stream-readers/static/media/autopista_del_sur_nuevo2.b3c74c98.jpg",
     "static/media/axolotl_nuevo2.jpg": "/stream-readers/static/media/axolotl_nuevo2.5e6a7b43.jpg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.90d3f407.js",
-    "static/js/2.ad14f063.chunk.js",
-    "static/css/main.d166a76b.chunk.css",
-    "static/js/main.bc9bbdd2.chunk.js"
+    "static/js/2.e7b654c1.chunk.js",
+    "static/css/main.53bcba47.chunk.css",
+    "static/js/main.83516b4f.chunk.js"
   ]
 }
