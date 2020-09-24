@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stream-readers/static/css/main.964f2722.chunk.css",
+    "main.css": "/stream-readers/static/css/main.a32ef9f5.chunk.css",
     "main.js": "/stream-readers/static/js/main.61bf3995.chunk.js",
     "main.js.map": "/stream-readers/static/js/main.61bf3995.chunk.js.map",
     "runtime-main.js": "/stream-readers/static/js/runtime-main.90d3f407.js",
@@ -9,10 +9,10 @@
     "static/js/2.ee7da60c.chunk.js": "/stream-readers/static/js/2.ee7da60c.chunk.js",
     "static/js/2.ee7da60c.chunk.js.map": "/stream-readers/static/js/2.ee7da60c.chunk.js.map",
     "index.html": "/stream-readers/index.html",
-    "precache-manifest.2e79447d95a59522c5c9004bb4a8eb9b.js": "/stream-readers/precache-manifest.2e79447d95a59522c5c9004bb4a8eb9b.js",
+    "precache-manifest.d4d1db2fde219672bb376afd78819fdf.js": "/stream-readers/precache-manifest.d4d1db2fde219672bb376afd78819fdf.js",
     "service-worker.js": "/stream-readers/service-worker.js",
     "static/css/2.537602a3.chunk.css.map": "/stream-readers/static/css/2.537602a3.chunk.css.map",
-    "static/css/main.964f2722.chunk.css.map": "/stream-readers/static/css/main.964f2722.chunk.css.map",
+    "static/css/main.a32ef9f5.chunk.css.map": "/stream-readers/static/css/main.a32ef9f5.chunk.css.map",
     "static/js/2.ee7da60c.chunk.js.LICENSE.txt": "/stream-readers/static/js/2.ee7da60c.chunk.js.LICENSE.txt",
     "static/media/formSection.css": "/stream-readers/static/media/Foto pag filtro blanca.501110e6.png",
     "static/media/hero.css": "/stream-readers/static/media/reproducir.3a85d47d.jpg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.90d3f407.js",
     "static/css/2.537602a3.chunk.css",
     "static/js/2.ee7da60c.chunk.js",
-    "static/css/main.964f2722.chunk.css",
+    "static/css/main.a32ef9f5.chunk.css",
     "static/js/main.61bf3995.chunk.js"
   ]
 }
