@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/stream-readers/static/css/main.53bcba47.chunk.css",
-    "main.js": "/stream-readers/static/js/main.83516b4f.chunk.js",
-    "main.js.map": "/stream-readers/static/js/main.83516b4f.chunk.js.map",
+    "main.css": "/stream-readers/static/css/main.964f2722.chunk.css",
+    "main.js": "/stream-readers/static/js/main.61bf3995.chunk.js",
+    "main.js.map": "/stream-readers/static/js/main.61bf3995.chunk.js.map",
     "runtime-main.js": "/stream-readers/static/js/runtime-main.90d3f407.js",
     "runtime-main.js.map": "/stream-readers/static/js/runtime-main.90d3f407.js.map",
-    "static/js/2.e7b654c1.chunk.js": "/stream-readers/static/js/2.e7b654c1.chunk.js",
-    "static/js/2.e7b654c1.chunk.js.map": "/stream-readers/static/js/2.e7b654c1.chunk.js.map",
+    "static/css/2.537602a3.chunk.css": "/stream-readers/static/css/2.537602a3.chunk.css",
+    "static/js/2.ee7da60c.chunk.js": "/stream-readers/static/js/2.ee7da60c.chunk.js",
+    "static/js/2.ee7da60c.chunk.js.map": "/stream-readers/static/js/2.ee7da60c.chunk.js.map",
     "index.html": "/stream-readers/index.html",
-    "precache-manifest.3bbd0d53488689acc66909d8599e526e.js": "/stream-readers/precache-manifest.3bbd0d53488689acc66909d8599e526e.js",
+    "precache-manifest.2e79447d95a59522c5c9004bb4a8eb9b.js": "/stream-readers/precache-manifest.2e79447d95a59522c5c9004bb4a8eb9b.js",
     "service-worker.js": "/stream-readers/service-worker.js",
-    "static/css/main.53bcba47.chunk.css.map": "/stream-readers/static/css/main.53bcba47.chunk.css.map",
-    "static/js/2.e7b654c1.chunk.js.LICENSE.txt": "/stream-readers/static/js/2.e7b654c1.chunk.js.LICENSE.txt",
+    "static/css/2.537602a3.chunk.css.map": "/stream-readers/static/css/2.537602a3.chunk.css.map",
+    "static/css/main.964f2722.chunk.css.map": "/stream-readers/static/css/main.964f2722.chunk.css.map",
+    "static/js/2.ee7da60c.chunk.js.LICENSE.txt": "/stream-readers/static/js/2.ee7da60c.chunk.js.LICENSE.txt",
     "static/media/formSection.css": "/stream-readers/static/media/Foto pag filtro blanca.501110e6.png",
     "static/media/hero.css": "/stream-readers/static/media/reproducir.3a85d47d.jpg",
     "static/media/TAPA PRINCIPITO ALTA-08 (1).jpg": "/stream-readers/static/media/TAPA PRINCIPITO ALTA-08 (1).8b6c811f.jpg",
@@ -36,8 +38,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.90d3f407.js",
-    "static/js/2.e7b654c1.chunk.js",
-    "static/css/main.53bcba47.chunk.css",
-    "static/js/main.83516b4f.chunk.js"
+    "static/css/2.537602a3.chunk.css",
+    "static/js/2.ee7da60c.chunk.js",
+    "static/css/main.964f2722.chunk.css",
+    "static/js/main.61bf3995.chunk.js"
   ]
 }
