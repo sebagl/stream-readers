@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee506bc51c35639130890924057d5f34",
+    "revision": "f160d368c5945b9e8231a2241993eb5c",
     "url": "/stream-readers/index.html"
   },
   {
-    "revision": "2dc930e251f56e09f95b",
+    "revision": "5eab3e0d25a41ff05fb8",
     "url": "/stream-readers/static/css/2.537602a3.chunk.css"
   },
   {
-    "revision": "dc5081c264b888b3bc67",
-    "url": "/stream-readers/static/css/main.a32ef9f5.chunk.css"
+    "revision": "431588453774fbfbb061",
+    "url": "/stream-readers/static/css/main.e95f92e3.chunk.css"
   },
   {
-    "revision": "2dc930e251f56e09f95b",
-    "url": "/stream-readers/static/js/2.ee7da60c.chunk.js"
+    "revision": "5eab3e0d25a41ff05fb8",
+    "url": "/stream-readers/static/js/2.0756e5c3.chunk.js"
   },
   {
     "revision": "d9415d977639eb07c8fc7354b3313fdd",
-    "url": "/stream-readers/static/js/2.ee7da60c.chunk.js.LICENSE.txt"
+    "url": "/stream-readers/static/js/2.0756e5c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc5081c264b888b3bc67",
-    "url": "/stream-readers/static/js/main.61bf3995.chunk.js"
+    "revision": "431588453774fbfbb061",
+    "url": "/stream-readers/static/js/main.fd3ed055.chunk.js"
   },
   {
     "revision": "e280d9d573ebf8e97252",
